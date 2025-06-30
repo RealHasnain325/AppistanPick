@@ -1,3 +1,3 @@
 # AppistanPick
-This is my first Git Repository
-Auther- Hasnain
+This is my first Git Repository.
+Auther- Hasnain.
